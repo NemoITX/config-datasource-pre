@@ -1,6 +1,6 @@
 ---
 _metadata:
-  name: vty
+  name: global-vty
   weight: 2000
   description: Global VTY Definitions.
   is_active: true
