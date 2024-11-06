@@ -1,0 +1,9 @@
+---
+_metadata:
+  name: global-vty
+  weight: 2000
+  description: Global VTY Definitions.
+  is_active: true
+vty:
+  session-timeout: 15
+  exec-timeout: 15 0
