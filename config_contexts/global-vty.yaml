@@ -5,5 +5,5 @@ _metadata:
   description: Global VTY Definitions.
   is_active: true
 vty:
-  session-timeout: 15
-  exec-timeout: 15 0
+  session-timeout: '15'
+  exec-timeout: '15 0'
